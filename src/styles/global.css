@@ -1,1 +1,4 @@
 @import "tailwindcss";
+
+@import "./compontes.css";
+@import "./scrollbar.css";
